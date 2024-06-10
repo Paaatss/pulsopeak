@@ -1,0 +1,156 @@
+.centrar{
+    width: auto;
+    border: 20px  
+    padding: 30px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.btn-nav {
+    border-radius: 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px
+    border: 19px;
+    width: auto;
+    padding: 6px 15px;
+    margin: 7px;
+}
+
+.icon-size {
+    border: 3px;
+    width: auto;
+    padding: 2px 7px;
+    margin: 7px;
+}
+
+.section {
+    margin-block: 3px;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.card {
+    margin-bottom: 50px;
+    max-width: 100%;
+    margin: 6px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-body {
+    width: auto;
+    border: 10px;
+    padding: 33px;
+    margin: 10px;
+    display: inline;
+    justify-content: center;
+}
+
+.img-card {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    border-top-left-radius: 15px; 
+    border-top-right-radius: 15px;
+}
+
+
+.card-small {
+border:none
+}
+
+.estilo-link {
+color:black;
+text-decoration: none;
+border-radius: 15px;
+margin-bottom: 5px;
+font-size: small; 
+
+}
+
+
+
+.text-md-start {
+    text-align: left;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+.img-fluid-custom {
+    width: 100%;
+    height: auto;
+    
+}
+
+.icon-space{
+    display: inline;
+    justify-content: space-around;
+    padding-block: 20px;
+    margin: 60px;
+    width: 65px;  
+
+}
+solid rgb(228, 143, 104); 
+
+.text-body-emphasis {
+    text-decoration: none;
+    color: inherit;
+}
+
+.icon-space {
+    margin: 0 10px;
+}
+
+ 
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    padding-block: 30px;
+    margin: 5PX;
+    text-align: center;
+}
+
+
+.CCOL {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.img-r {
+    width: 60%;
+    height: auto;
+    object-fit: cover;
+    margin-top: 160px;
+    margin-left: 50px;
+}
+
+.boton-space{
+    width: auto;
+    padding: 8px;
+    margin: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -ms-text-size-adjust: auto;
+    text-align: center;
+   
+}
+
+ctr+ck=comentar
